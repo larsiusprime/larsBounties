@@ -7,6 +7,12 @@ This is larsBounties, a repository which I use to keep track of various bite-siz
 
 All available bounties are listed on the [Issues](https://github.com/larsiusprime/larsBounties/issues) tab above as open issues. Claimed bounties that are underway will be tagged as such, and completed bounties will have their issues closed.
 
+**To claim a bounty:**
+Post in the issue that you wish to claim the bounty, then follow up with some basic proof of work. This can be as simple as asking some clarifying questions that indicate you have some knowledge of the problem. The bounty counts as 'claimed' as soon as you start working on the issue.
+
+**Multiple people on one bounty:**
+If you want to work on a bounty that's already claimed, simply get in touch and we'll negotiate. The first person to claim the bounty in good faith and who is still making progress gets deferential treatment, but in the right circumstances, and with the agreement of the original claimant, I might consider splitting the bounty or some other arrangement.
+
 --------
 
 All of the bounties listed have the following common rules:
