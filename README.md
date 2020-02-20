@@ -3,7 +3,7 @@ Open bounties for various tasks Lars needs to delegate to others
 
 (*Bounty repo format heavily inspired by / shamelessly ripped off of [FlibitBounties](https://github.com/flibitijibibo/flibitBounties), with permission*)
 
-This is larsBounties, a repository which I use to keep track of various bite-sized projects I need to delegate to other people. If one of the projects looks interesting to you, it's an to make some money, get some experience, and contribute to open source.
+This is larsBounties, a repository which I use to keep track of various bite-sized projects I need to delegate to other people. If one of the projects looks interesting to you, it's an opportunity for you to make some money, get some experience, and contribute to open source.
 
 All available bounties are listed on the [Issues](https://github.com/larsiusprime/larsBounties/issues) tab above as open issues. Claimed bounties that are underway will be tagged as such, and completed bounties will have their issues closed.
 
