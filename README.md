@@ -31,4 +31,4 @@ All of the bounties listed have the following common rules:
 
 #7: If you would like to contribute to the bounty's payout, you are free to do so. For example, if you're a developer that cannot work on a project but would like to pay extra to the person that completes it, you can simply add that as a comment to the bounty. All the above rules still apply, so you may end up getting multiple 1099-MISCs if you receive bounties from multiple companies.
 
-If you have any further questions, my e-mail address is Lars Dot Doucet At Gmail, and you can ping me on twitter as [@larsiusprime](https://www.twitter.com/larsiusprime).
+If you have any further questions, my e-mail address is Lars Dot Doucet At Gmail, and you can ping me on twitter as [@larsiusprime](https://www.twitter.com/larsiusprime). 
